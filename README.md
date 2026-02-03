@@ -1,13 +1,10 @@
 # Alessandro Incantalupo | Senior Angular Developer & Architect
 
-> Alessandro Incantalupo here, a Senior Angular Developer and System Architect specializing in high-performance enterprise applications, legacy system migrations (Angular 17-21), and scalable frontend infrastructure. Expert in Zoneless architecture, Signals, and LLM-ready tooling.
+> Alessandro Incantalupo here, a **Senior Angular Developer** and **System Architect** specializing in **high-performance enterprise applications**, legacy system migrations (Angular 17-21), and scalable frontend infrastructure.
 
-## Introduction
-
-Hello there 👋 I'm **Senior Angular Developer**.
-I'm a Senior Angular Developer focused on high-performance enterprise architecture and scalable migrations (Angular 17-21).
-I leverage modern standards like Zoneless, Signals, and Standalone components to build maintainable, future-proof applications.
-Beyond work, I explore static site generation with Astro and build LLM Tooling to optimize developer workflows.
+Hello there 👋
+I leverage modern standards like **Zoneless**, **Signals**, and **Standalone components** to build maintainable, future-proof applications.
+Beyond work, I explore static site generation with **Astro** and build **LLM Tooling** to optimize developer workflows.
 I am available for remote roles (EU/UK/Global) where I can contribute to technical excellence and efficiency.
 
 ## Profile

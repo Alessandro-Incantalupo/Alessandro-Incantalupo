@@ -27,7 +27,7 @@ I'm passionate about modern developer tooling and constantly stay updated with t
 
 ## Skills
 
-Angular, TypeScript, RxJS, NgRx, Nx Monorepo, Solution Architecture, Micro-frontends, Performance Optimization, CI/CD, Azure DevOps, Signals, SignalStore, Standalone Components, Zoneless Architecture, TailwindCSS, Angular Material, PrimeNG, Bootstrap, DaisyUI, ApexCharts, Chart.js
+Angular, TypeScript, RxJS, NgRx, Nx Monorepo, Solution Architecture, Micro-frontends, Performance Optimization, CI/CD, Azure DevOps, Signals, SignalStore, Standalone Components, Zoneless Architecture, TailwindCSS, Angular Material, PrimeNG, Bootstrap, DaisyUI, ApexCharts, Chart.js, REST API Integration, Headless Development, SAP Spartacus, WCAG Accessibility, Figma to Code
 
 ## Most Recent Experience
 

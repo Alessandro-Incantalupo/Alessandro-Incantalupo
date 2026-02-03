@@ -84,4 +84,3 @@ High School Diploma, Chemistry — Score: 84/100
 > For collaboration inquiries, please contact me via LinkedIn.
 
 [LinkedIn](https://www.linkedin.com/in/alessandro-incantalupo/)
-GitHub: https://github.com/Alessandro-Incantalupo

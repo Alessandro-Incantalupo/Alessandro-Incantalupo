@@ -11,7 +11,7 @@ I am available for remote roles (EU/UK/Global) where I can contribute to technic
 
 How can I be guaranteed to be involved in the most relevant, tip-of-the-spear projects your company is working on?
 
-Angular developer with 5+ years in software engineering. My current focus and passion is using the newer versions of Angular (17-21) to bring scalable improvements and future-proofing.
+Angular developer, my current focus and passion is using the newer versions of Angular (17-21) to bring scalable improvements and future-proofing.
 
 Live projects I've worked on: 8+
 

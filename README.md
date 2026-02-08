@@ -43,7 +43,7 @@ Angular, TypeScript, RxJS, NgRx, Nx Monorepo, Solution Architecture, Micro-front
 - Guided test coordination and mentored team members to achieve comprehensive test coverage across micro-frontend codebase.
 
 ### Angular Frontend Developer
-**Sep 2023 – Oct 2025 | Accenture**
+**Sep 2023 – Sep 2025 | Accenture**
 - Implemented NgRx Signal Store for centralized state management, enabling frontend team to deliver state-related features 60% faster.
 - Pioneered Zoneless Angular architecture with Signals, reducing change detection triggers by 90% via fine-grained dependency tracking.
 - Established Figma-to-code workflow using TailwindCSS design tokens and PrimeNG, achieving 95% first-delivery acceptance on UI implementations.

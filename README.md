@@ -9,61 +9,58 @@ I am available for remote roles (EU/UK/Global) where I can contribute to technic
 
 ## Profile
 
-How can I be guaranteed to be involved in the most relevant, tip-of-the-spear projects your company is working on?
+I will build, from the ground up, each and every skill that gets me closer to be a valuable asset and that would guarantee I will be involved in the tip of the spear projects your company is working on.
 
 Angular developer, my current focus and passion is using the newer versions of Angular (17-21) to bring scalable improvements and future-proofing.
-
 Live projects I've worked on: 8+
-
 I can hit the ground running.
 
-I'm comfortable both as an operator—coordinating across Backend, UX, and managers—and as an architect providing infrastructure and architectural direction.
+I'm comfortable both as an operator coordinating across Backend, UX, and managers and as an architect providing infrastructure and architectural direction.
 
-I've worked in healthcare where accessibility and testing were paramount, fintech where performance and graphic charting were required, e-commerce/retail with SAP Spartacus verticalization where pixel-perfect design was critical, and legal platforms where legacy system migrations required multidisciplinary team effort to modernize existing flows.
+I've worked in healthcare where accessibility and testing were paramount, fintech where performance and graphic charting were required, e-commerce/retail with SAP Commerce Cloud Composable Storefront (Spartacus) verticalization where pixel perfect design was critical, and legal platforms where legacy system migrations required multidisciplinary team effort to modernize existing flows.
 
-My mantra: "Maximize job not done"—making it look like I didn't do much, when actually I ensured communication was on point and asked the right questions upfront to save time and pain later.
+My mantra: "Maximize job not done" making it look like I didn't do much, when actually I ensured communication was on point and asked the right questions upfront to save time and pain later.
 
 I'm passionate about modern developer tooling and constantly stay updated with the latest trends without getting scammed by hype cycles.
 
-## Skills
-
-Angular, TypeScript, RxJS, NgRx, Nx Monorepo, Solution Architecture, Micro-frontends, Performance Optimization, CI/CD, Azure DevOps, Signals, SignalStore, Standalone Components, Zoneless Architecture, TailwindCSS, Angular Material, PrimeNG, Bootstrap, DaisyUI, ApexCharts, Chart.js, REST API Integration, Headless Development, SAP Spartacus, WCAG Accessibility, Figma to Code
-
 ## Most Recent Experience
 
-### Senior Angular Developer
-**Nov 2025 – Present | AI Software Solutions**
-- Providing high-level architectural consultancy and development services for enterprise clients.
-- Specializing in modern Angular application scaling, performance optimization, and team mentorship.
+### Angular Front-end Developer
+**Nov 2025 – Present | Exprivia**
 
-### Senior Angular Developer
-**Sep 2025 – Nov 2025 | Accenture**
-- Worked on 4+ live Angular 17-20 applications in both Healthcare and Fintech.
-- Interfaced directly with clients to recommend and implement architectural patterns aligned with business requirements and technical constraints.
-- Guided test coordination and mentored team members to achieve comprehensive test coverage across micro-frontend codebase.
+- Drove team-wide adoption of **best architectural practices**, **compressing feature delivery cycles** by **eliminating the code review friction** that was consistently degrading developer output
+- Architected and enforced **performant application patterns** that ensured **stable performance** under extended user sessions, **eliminating systemic CPU degradation** before it could reach production
+- **Optimized rendering performance** by migrating components to the OnPush change detection strategy, noticeably **improving UI responsiveness** for data-heavy views
+- Mentored junior developers through pair programming and structured knowledge transfer sessions, **accelerating onboarding** and **raising the team's baseline proficiency** without sacrificing delivery pace
+- Migrated key applications to **Angular Signals with Zoneless configuration**, eliminating **90% of redundant change detection cycles** and delivering **measurably smoother UIs** on data-intensive views
 
-### Angular Frontend Developer
-**Sep 2023 – Sep 2025 | Accenture**
-- Implemented NgRx Signal Store for centralized state management, enabling frontend team to deliver state-related features 60% faster.
-- Pioneered Zoneless Angular architecture with Signals, reducing change detection triggers by 90% via fine-grained dependency tracking.
-- Established Figma-to-code workflow using TailwindCSS design tokens and PrimeNG, achieving 95% first-delivery acceptance on UI implementations.
-- Standardized Git operations and conventional commit practices, virtually eliminating clearable merge conflicts and streamlining code reviews.
-- Engineered Azure DevOps CI/CD pipelines enabling daily zero-downtime production releases with automated rollback capabilities.
-- Streamlined Backend/Frontend collaboration by defining strict REST API contracts, significantly reducing integration friction and handover delays.
+---
 
-### Frontend Developer
+### Angular Front-end Developer
+**Sep 2023 – Nov 2025 | Accenture**
+
+- **Worked on 4+ live Angular 17-20 applications in both Healthcare and Fintech**
+- Implemented **NgRx Signal Store** for **centralized state management**, enabling the team to deliver state-related features **60% faster**
+- Established **Figma-to-code workflow** using **TailwindCSS design tokens** and **PrimeNG component library**, achieving **responsive web design** and **intuitive UI/UX interfaces** with **95% first-delivery acceptance rate** and **WCAG 2.1** compliance
+- Standardized **Git workflow** and **conventional commit practices** across the team, eliminating merge conflict overhead and creating a **predictable release cadence** that reduced time lost to integration issues
+- Deployed **Azure DevOps CI/CD infrastructure** enabling **daily production releases** with **full rollback capabilities**, **zero service interruption**, and reducing deployment risk to near zero
+- Drove API-first collaboration with **backend** developers by establishing shared **REST API** contracts and communication protocols upfront, **cutting integration rework cycles** and **enabling parallel frontend-backend development without blocking dependencies**
+
+---
+
+### Angular Front-end Developer
 **Sep 2022 – Aug 2023 | ELAB (A.S. Watson Group)**
-- Developed 3+ live Angular applications for major retail brands (Marionnaud, ICI Paris, Kruidvat), enhancing engagement on both web and mobile platforms.
-- Architected Service-Oriented layers for REST API integration, coupling reactive forms with data-driven UI flows for optimal responsiveness.
-- Executed rigorous unit and integration testing protocols, ensuring high system stability and minimizing production regressions.
-- Collaborated closely with UI/UX designers to translate design specs into accessible (WCAG compliant) components.
-- Active participant in Agile ceremonies (grooming, stand-ups, retrospectives), consistently delivering features with a pragmatic, problem-solving mindset.
-- Led code review sessions to enforce component design standards and improve maintainability across the codebase.
+
+- **Worked on 3+ live e-commerce storefronts** for international retail brands (**Marionnaud, ICI Paris, Kruidvat**) under the **A.S. Watson Group**, directly supporting multi-market online retail operations on enterprise e-commerce infrastructure
+- Delivered frictionless checkout, cart, and authentication experiences for **millions of shoppers** across all storefronts, leveraging **REST API** integration to enable **real-time order processing** and **session management**
+- Achieved **zero critical production incidents** in checkout and cart flows by aligning frontend form models with backend API contracts upfront, eliminating malformed requests and edge-case failures before each release
+- **Reduced post-release UI defect tickets to near zero** through structured QA collaboration and tight designer review cycles, achieving **first-delivery acceptance** across **12+ consecutive sprint cycles**
+- **Accelerated team delivery velocity** by standardizing component patterns through rigorous code reviews, **cutting onboarding time** for new developers and eliminating inconsistent implementations
 
 ## Education
 
 ### University of Pavia, Italy
-Bachelor’s Degree in Mathematics (In progress) — GPA: 25.5/30
+Bachelor’s Degree in Mathematics (In progress) — 93.9/110 (Projected)
 
 ### ITIS G. Cardano, Pavia, Italy
 High School Diploma, Chemistry — Score: 84/100

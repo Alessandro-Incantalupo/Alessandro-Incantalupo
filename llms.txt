@@ -1,6 +1,6 @@
-# Alessandro Incantalupo | Senior Angular Developer & Architect
+# Alessandro Incantalupo | Angular Frontend Engineer
 
-> Alessandro Incantalupo here, a **Senior Angular Developer** and **System Architect** specializing in **high-performance enterprise applications**, legacy system migrations (Angular 17-21), and scalable frontend infrastructure.
+> Alessandro Incantalupo here, an **Angular Frontend Engineer** specializing in **high-performance enterprise applications**, modern Angular migrations (17-21), and scalable frontend infrastructure.
 
 Hello there 👋
 I leverage modern standards like **Zoneless**, **Signals**, and **Standalone components** to build maintainable, future-proof applications.
@@ -31,19 +31,17 @@ Angular, TypeScript, RxJS, NgRx, Nx Monorepo, Solution Architecture, Micro-front
 
 ## Most Recent Experience
 
-### Senior Angular Developer
-**Nov 2025 – Present | AI Software Solutions**
-- Providing high-level architectural consultancy and development services for enterprise clients.
-- Specializing in modern Angular application scaling, performance optimization, and team mentorship.
-
-### Senior Angular Developer
-**Sep 2025 – Nov 2025 | Accenture**
-- Worked on 4+ live Angular 17-20 applications in both Healthcare and Fintech.
-- Interfaced directly with clients to recommend and implement architectural patterns aligned with business requirements and technical constraints.
-- Guided test coordination and mentored team members to achieve comprehensive test coverage across micro-frontend codebase.
+### Angular Frontend Developer
+**Nov 2025 – Present | Exprivia**
+- Drove team-wide adoption of best architectural practices, compressing feature delivery cycles by eliminating code review friction.
+- Architected performant application patterns ensuring stable performance under extended user sessions, eliminating systemic CPU degradation before it reached production.
+- Optimized rendering performance by migrating components to OnPush change detection strategy, noticeably improving UI responsiveness for data-heavy views.
+- Mentored junior developers through pair programming and structured knowledge transfer sessions, accelerating onboarding without sacrificing delivery pace.
+- Migrated key applications to Angular Signals with Zoneless configuration, eliminating 90% of redundant change detection cycles.
 
 ### Angular Frontend Developer
-**Sep 2023 – Oct 2025 | Accenture**
+**Sep 2023 – Nov 2025 | Accenture**
+- Worked on 4+ live Angular 17-20 applications in both Healthcare and Fintech.
 - Implemented NgRx Signal Store for centralized state management, enabling frontend team to deliver state-related features 60% faster.
 - Pioneered Zoneless Angular architecture with Signals, reducing change detection triggers by 90% via fine-grained dependency tracking.
 - Established Figma-to-code workflow using TailwindCSS design tokens and PrimeNG, achieving 95% first-delivery acceptance on UI implementations.
@@ -51,7 +49,7 @@ Angular, TypeScript, RxJS, NgRx, Nx Monorepo, Solution Architecture, Micro-front
 - Engineered Azure DevOps CI/CD pipelines enabling daily zero-downtime production releases with automated rollback capabilities.
 - Streamlined Backend/Frontend collaboration by defining strict REST API contracts, significantly reducing integration friction and handover delays.
 
-### Frontend Developer
+### Angular Frontend Developer
 **Sep 2022 – Aug 2023 | ELAB (A.S. Watson Group)**
 - Developed 3+ live Angular applications for major retail brands (Marionnaud, ICI Paris, Kruidvat), enhancing engagement on both web and mobile platforms.
 - Architected Service-Oriented layers for REST API integration, coupling reactive forms with data-driven UI flows for optimal responsiveness.
@@ -63,7 +61,7 @@ Angular, TypeScript, RxJS, NgRx, Nx Monorepo, Solution Architecture, Micro-front
 ## Education
 
 ### University of Pavia, Italy
-Bachelor’s Degree in Mathematics (In progress) — GPA: 25.5/30
+Bachelor's Degree in Mathematics (In progress) — GPA: 25.5/30
 
 ### ITIS G. Cardano, Pavia, Italy
 High School Diploma, Chemistry — Score: 84/100

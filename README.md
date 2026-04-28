@@ -2,7 +2,7 @@
 
 Angular Frontend Engineer · Remote-ready
 
-**Angular 17-21 · Signals · Zoneless · NgRx · Nx · TailwindCSS
+**Angular 17-21 · Signals · Zoneless · NgRx · Nx · TailwindCSS**
 
 Healthcare · Fintech · E-commerce · Legal platforms
 

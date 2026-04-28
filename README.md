@@ -1,10 +1,10 @@
-# Alessandro Incantalupo | Senior Angular Developer & Architect
+# Alessandro Incantalupo | Angular Frontend Engineer
 
-> Alessandro Incantalupo here, a **Senior Angular Developer** and **System Architect** specializing in **high-performance enterprise applications**, legacy system migrations (Angular 17-21), and scalable frontend infrastructure.
+> Angular Frontend Engineer with 5+ years specialising in modern Angular tooling (**Signals, Zoneless, NgRx Signal Store**) and design system implementation across **Fintech, Healthcare, and E-commerce**.
 
 Hello there 👋
 I leverage modern standards like **Zoneless**, **Signals**, and **Standalone components** to build maintainable, future-proof applications.
-Beyond work, I explore static site generation with **Astro** and build **LLM Tooling** to optimize developer workflows.
+Beyond work, I explore static site generation with **Astro** and build **LLM Tooling** to optimise developer workflows.
 I am available for remote roles (EU/UK/Global) where I can contribute to technical excellence and efficiency.
 
 ## Profile
@@ -30,7 +30,7 @@ I'm passionate about modern developer tooling and constantly stay updated with t
 
 - Drove team-wide adoption of **best architectural practices**, **compressing feature delivery cycles** by **eliminating the code review friction** that was consistently degrading developer output
 - Architected and enforced **performant application patterns** that ensured **stable performance** under extended user sessions, **eliminating systemic CPU degradation** before it could reach production
-- **Optimized rendering performance** by migrating components to the OnPush change detection strategy, noticeably **improving UI responsiveness** for data-heavy views
+- **Optimised rendering performance** by migrating components to the OnPush change detection strategy, noticeably **improving UI responsiveness** for data-heavy views
 - Mentored junior developers through pair programming and structured knowledge transfer sessions, **accelerating onboarding** and **raising the team's baseline proficiency** without sacrificing delivery pace
 - Migrated key applications to **Angular Signals with Zoneless configuration**, eliminating **90% of redundant change detection cycles** and delivering **measurably smoother UIs** on data-intensive views
 
@@ -40,9 +40,9 @@ I'm passionate about modern developer tooling and constantly stay updated with t
 **Sep 2023 – Nov 2025 | Accenture**
 
 - **Worked on 4+ live Angular 17-20 applications in both Healthcare and Fintech**
-- Implemented **NgRx Signal Store** for **centralized state management**, enabling the team to deliver state-related features **60% faster**
+- Implemented **NgRx Signal Store** for **centralised state management**, enabling the team to deliver state-related features **60% faster**
 - Established **Figma-to-code workflow** using **TailwindCSS design tokens** and **PrimeNG component library**, achieving **responsive web design** and **intuitive UI/UX interfaces** with **95% first-delivery acceptance rate** and **WCAG 2.1** compliance
-- Standardized **Git workflow** and **conventional commit practices** across the team, eliminating merge conflict overhead and creating a **predictable release cadence** that reduced time lost to integration issues
+- Standardised **Git workflow** and **conventional commit practices** across the team, eliminating merge conflict overhead and creating a **predictable release cadence** that reduced time lost to integration issues
 - Deployed **Azure DevOps CI/CD infrastructure** enabling **daily production releases** with **full rollback capabilities**, **zero service interruption**, and reducing deployment risk to near zero
 - Drove API-first collaboration with **backend** developers by establishing shared **REST API** contracts and communication protocols upfront, **cutting integration rework cycles** and **enabling parallel frontend-backend development without blocking dependencies**
 
@@ -55,12 +55,14 @@ I'm passionate about modern developer tooling and constantly stay updated with t
 - Delivered frictionless checkout, cart, and authentication experiences for **millions of shoppers** across all storefronts, leveraging **REST API** integration to enable **real-time order processing** and **session management**
 - Achieved **zero critical production incidents** in checkout and cart flows by aligning frontend form models with backend API contracts upfront, eliminating malformed requests and edge-case failures before each release
 - **Reduced post-release UI defect tickets to near zero** through structured QA collaboration and tight designer review cycles, achieving **first-delivery acceptance** across **12+ consecutive sprint cycles**
-- **Accelerated team delivery velocity** by standardizing component patterns through rigorous code reviews, **cutting onboarding time** for new developers and eliminating inconsistent implementations
+- **Accelerated team delivery velocity** by standardising component patterns through rigorous code reviews, **cutting onboarding time** for new developers and eliminating inconsistent implementations
+
+---
 
 ## Education
 
 ### University of Pavia, Italy
-Bachelor’s Degree in Mathematics (In progress) — 93.9/110 (Projected)
+Bachelor's Degree in Mathematics (In progress) — 93.9/110 (Projected)
 
 ### ITIS G. Cardano, Pavia, Italy
 High School Diploma, Chemistry — Score: 84/100
@@ -74,7 +76,7 @@ High School Diploma, Chemistry — Score: 84/100
 
 - Advanced TypeScript patterns
 - Micro-frontend architecture
-- Performance optimization techniques
+- Performance optimisation techniques
 
 ## Contact
 

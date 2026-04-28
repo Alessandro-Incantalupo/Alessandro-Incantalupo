@@ -1,5 +1,3 @@
-# Alessandro Incantalupo | Angular Frontend Engineer
-
 > Angular Frontend Engineer with 5+ years specialising in modern Angular tooling (**Signals, Zoneless, NgRx Signal Store**) and design system implementation across **Fintech, Healthcare, and E-commerce**.
 
 Hello there 👋

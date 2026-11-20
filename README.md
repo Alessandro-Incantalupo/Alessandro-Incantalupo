@@ -13,6 +13,7 @@
 ### Showcase
 
 - [angular-nx-admin-dashboard-monorepo](https://github.com/Alessandro-Incantalupo/angular-nx-admin-dashboard-monorepo): Angular admin dashboard in an Nx monorepo: signals, NgRx Signal Store, PrimeNG, a Hono API.
+- [design-tokens](https://github.com/Alessandro-Incantalupo/design-tokens): Design tokens as plain CSS variables: three layers, light and dark, a Tailwind 4 bridge, contrast checked in CI (npm: @a.incantalupo/design-tokens).
 - [angular-live-betting-app](https://github.com/Alessandro-Incantalupo/angular-live-betting-app): Live odds in Angular: Signal Store, real-time polling, accessible markup.
 
 [Website](https://www.alessandroincantalupo.com) · [CV (PDF)](https://www.alessandroincantalupo.com/files/Alessandro_Incantalupo_CV_11-26.pdf) · [LinkedIn](https://www.linkedin.com/in/alessandro-incantalupo) · [Book a 15-min call](https://cal.com/alessandro-i/15min)

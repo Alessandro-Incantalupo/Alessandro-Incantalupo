@@ -4,7 +4,7 @@
 
 **Frontend AI Engineer · TypeScript & Angular Specialist** · Open to remote roles (EU, UK, worldwide)
 
-> Your frontend team, faster with AI it can trust.
+> AI-augmented frontend development, with coding agents that follow your team’s rules.
 
 **Stack:** TypeScript · Angular (signals, zoneless) · Nx · SvelteKit · Astro · Tailwind 4 · Postgres · MCP servers · Claude Code & Copilot
 

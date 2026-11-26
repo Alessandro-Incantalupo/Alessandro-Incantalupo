@@ -12,7 +12,7 @@
 
 ### Showcase
 
-- [angular-agent-kit](https://github.com/Alessandro-Incantalupo/angular-agent-kit): Angular team kit for coding agents: a skill sourced from angular.dev, a review agent, a signals migration playbook, a design-tokens MCP server. Installs with APM, Claude Code or Copilot.
+- [angular-agent-kit](https://github.com/Alessandro-Incantalupo/angular-agent-kit): Angular team kit for coding agents: a skill sourced from angular.dev, a review agent, a signals migration playbook, a design-tokens MCP server. Installs with APM, Claude Code or Copilot. A public eval with and without the kit (Haiku 5.5, Opus 5.5): one review bug from 0/10 runs found to 10/10.
 - [angular-nx-admin-dashboard-monorepo](https://github.com/Alessandro-Incantalupo/angular-nx-admin-dashboard-monorepo): Angular admin dashboard in an Nx monorepo: signals, NgRx Signal Store, PrimeNG, a Hono API.
 - [sveltekit-admin-dashboard](https://github.com/Alessandro-Incantalupo/sveltekit-admin-dashboard): SvelteKit 3 admin dashboard for a fictional mentoring platform: six real pages, SVG charts with text equivalents, design tokens, Lighthouse 100 on every page.
 - [design-tokens](https://github.com/Alessandro-Incantalupo/design-tokens): Design tokens as plain CSS variables: three layers, light and dark, a Tailwind 4 bridge, contrast checked in CI (npm: @a.incantalupo/design-tokens).
